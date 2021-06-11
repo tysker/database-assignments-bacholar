@@ -1,0 +1,8 @@
+dk/cphbusiness/mrv/twitterclone/usermanagement/UserOverviewIT.class
+dk/cphbusiness/mrv/twitterclone/usermanagement/FollowUserIT.class
+dk/cphbusiness/mrv/twitterclone/usermanagement/CreateUserIT.class
+dk/cphbusiness/mrv/twitterclone/usermanagement/UpdateUserIT.class
+dk/cphbusiness/mrv/twitterclone/TimeFake.class
+dk/cphbusiness/mrv/twitterclone/postmanagement/CreatePostIT.class
+dk/cphbusiness/mrv/twitterclone/usermanagement/UnfollowUserIT.class
+dk/cphbusiness/mrv/twitterclone/TestBase.class

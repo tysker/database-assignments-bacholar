@@ -1,0 +1,11 @@
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/impl/UserManagementImpl.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/util/Time.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/dto/UserOverview.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/Main.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/contract/UserManagement.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/contract/PostManagement.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/dto/UserCreation.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/dto/Post.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/util/TimeImpl.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/dto/UserUpdate.java
+/home/jorg/Documents/database/assignment5_twitter_clone/twitter-clone/src/main/java/dk/cphbusiness/mrv/twitterclone/impl/PostManagementImpl.java

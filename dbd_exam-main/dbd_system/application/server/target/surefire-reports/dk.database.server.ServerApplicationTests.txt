@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: dk.database.server.ServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.581 s <<< FAILURE! - in dk.database.server.ServerApplicationTests
+contextLoads  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalArgumentException: Could not find class [com.mongodb.MongoClientSettings]
+Caused by: java.lang.ClassNotFoundException: com.mongodb.MongoClientSettings
+

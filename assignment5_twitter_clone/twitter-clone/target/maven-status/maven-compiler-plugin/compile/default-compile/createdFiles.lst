@@ -1,0 +1,11 @@
+dk/cphbusiness/mrv/twitterclone/dto/UserOverview.class
+dk/cphbusiness/mrv/twitterclone/dto/UserUpdate.class
+dk/cphbusiness/mrv/twitterclone/contract/UserManagement.class
+dk/cphbusiness/mrv/twitterclone/dto/Post.class
+dk/cphbusiness/mrv/twitterclone/dto/UserCreation.class
+dk/cphbusiness/mrv/twitterclone/impl/PostManagementImpl.class
+dk/cphbusiness/mrv/twitterclone/contract/PostManagement.class
+dk/cphbusiness/mrv/twitterclone/util/Time.class
+dk/cphbusiness/mrv/twitterclone/Main.class
+dk/cphbusiness/mrv/twitterclone/util/TimeImpl.class
+dk/cphbusiness/mrv/twitterclone/impl/UserManagementImpl.class

@@ -1,0 +1,73 @@
+
+1. talk about the overall system
+2. show some endpoints with help of postman
+
+3. roles. 
+    For restriktion of access to users
+    would create groups for easier role creation
+
+4. talk about triggers.
+    2 type of triggers: INSERT and UPDATE
+    automatisation
+    NEW is used for new values
+    OLD are used if you make an UPDATE-query
+
+
+5. talk about functions and stored procedures
+    stored prodecure are also functions in postgresql
+
+    usally stored procedures has no return value.
+
+6. talk about view
+    pros
+        easy to use
+        hide an complex query
+        also possible to make select on table
+        less code
+    cons
+        if table is dropped or renamed
+        querying from a view takes longer time
+        what if your view should change??
+
+ACID
+    A = All changes to the data must be perforned successfully or not all.
+    C = Data must be in a consistent state before and after the transaction.
+    I = No other proccess can change the data while the transaction is running.
+    D = The changes made by a transaction must persist even after a system crash.
+
+
+
+CAP
+    in Nosql
+    we need a cluster
+    partition we need to have more nodes
+    https://www.ibm.com/cloud/learn/cap-theorem
+
+ BASE
+    Basic Availability. 
+    The NoSQL database approach focuses on the availability of data even in the presence of multiple failures. 
+    It achieves this by using a highly distributed approach to database management. 
+    Instead of maintaining a single large data store and focusing on the fault tolerance of that store, 
+    NoSQL databases spread data across many storage systems with a high degree of replication. 
+    In the unlikely event that a failure disrupts access to a segment of data, this does not necessarily 
+    result in a complete database outage.
+
+    Soft State. 
+    BASE databases abandon the consistency requirements of the ACID model pretty much completely. 
+    One of the basic concepts behind BASE is that data consistency is the developer's problem and should 
+    not be handled by the database.
+
+    Eventual Consistency.
+    The only requirement that NoSQL databases have regarding consistency is to require that at some point 
+    in the future, data will converge to a consistent state. No guarantees are made, however, about when this 
+    will occur. That is a complete departure from the immediate consistency requirement of ACID that prohibits 
+    a transaction from executing until the prior transaction has completed and the database has converged 
+    to a consistent state.
+
+
+
+MATCH (n)
+DETACH DELETE n;
+
+MATCH(n)
+RETURN n;
